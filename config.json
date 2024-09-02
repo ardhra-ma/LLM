@@ -1,0 +1,16 @@
+{
+    "client_a": {
+        "intents": [
+            "Information Request", "Action Request", "Greeting", "Goodbye", 
+            "Clarification", "Confirmation", "Small Talk", "Appointment Scheduling", 
+            "Technical Support", "Billing Inquiry"
+        ]
+    },
+    "client_b": {
+        "intents": [
+            "Information Request", "Order Placement", "Product Inquiry", "Complaint", 
+            "Feedback", "Cancellation", "Support Request", "Refund Request", 
+            "Shipping Inquiry", "Account Management"
+        ]
+    }
+}
